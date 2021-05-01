@@ -1,6 +1,6 @@
 About Me
 ========
-I'm is Arian Zambrano and I study Software Engeenering at San Marcos University in Lima, Perú. 
+I'm Arian Zambrano and I study Software Engeenering at San Marcos University in Lima, Perú. 
 
 Programming is one of my greatest passions, and I work everyday on becoming a skillful software developer.
 
